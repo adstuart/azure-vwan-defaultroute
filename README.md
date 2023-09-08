@@ -16,4 +16,4 @@ Behaviour:
   - VWAN Hub [1] via ER Connection
   - Regular "Normal" VNet/VNG via another Connection I have in place for testing
 - :warning: The default route is installed in the routing table of the normal VNet, and On-Premises, but this is filtered out and not usable by Hub [1]
-
+-
