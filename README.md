@@ -43,5 +43,4 @@ Following diagram shows broken flow.Hub adjacency learnt 0/0 > NVA spoke is over
 
 The fix this customer went for is to breakout tbe Green NVA egress in to seperate "second hub" and remove the need for 0/0 static route in red_RT.
 
-![](images/2023-09-18-11-25-27.png)![](images/2023-09-18-11-25-28.png)
-
+![](images/2023-09-18-11-25-27.png)
